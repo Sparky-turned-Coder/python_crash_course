@@ -76,7 +76,7 @@ print("My favorite foods are: ")
 for food in my_foods:
     print(food)
 print()
-print("My friend's favorite foods are: ")
+nprint("My friend's favorite foods are: ")
 for food in friend_foods:
     print(food)
 print()
